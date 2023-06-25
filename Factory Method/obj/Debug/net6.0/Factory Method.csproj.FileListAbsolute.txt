@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\bin\Debug\net6.0\Factory Method.exe
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\bin\Debug\net6.0\Factory Method.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\bin\Debug\net6.0\Factory Method.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\bin\Debug\net6.0\Factory Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\bin\Debug\net6.0\Factory Method.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\refint\Factory Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\Factory Method.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\Factory Method\obj\Debug\net6.0\ref\Factory Method.dll

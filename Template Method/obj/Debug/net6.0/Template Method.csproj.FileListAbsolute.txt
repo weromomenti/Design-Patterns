@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\bin\Debug\net6.0\Template Method.exe
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\bin\Debug\net6.0\Template Method.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\bin\Debug\net6.0\Template Method.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\bin\Debug\net6.0\Template Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\bin\Debug\net6.0\Template Method.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\refint\Template Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\Template Method.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\Template Method\obj\Debug\net6.0\ref\Template Method.dll

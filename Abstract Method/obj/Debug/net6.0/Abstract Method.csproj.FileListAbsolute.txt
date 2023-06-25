@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\bin\Debug\net6.0\Abstract Method.exe
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\bin\Debug\net6.0\Abstract Method.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\bin\Debug\net6.0\Abstract Method.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\bin\Debug\net6.0\Abstract Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\bin\Debug\net6.0\Abstract Method.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\refint\Abstract Method.dll
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\Abstract Method.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\Abstract Method\obj\Debug\net6.0\ref\Abstract Method.dll

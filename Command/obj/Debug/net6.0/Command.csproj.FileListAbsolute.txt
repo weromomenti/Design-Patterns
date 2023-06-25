@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\Command\bin\Debug\net6.0\Command.exe
+C:\Users\gtsereteli\source\repos\CodePath\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\Command\bin\Debug\net6.0\Command.dll
+C:\Users\gtsereteli\source\repos\CodePath\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.dll
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\Command\obj\Debug\net6.0\ref\Command.dll

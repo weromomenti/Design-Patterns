@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\bin\Debug\net6.0\CodePath.exe
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\bin\Debug\net6.0\CodePath.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\bin\Debug\net6.0\CodePath.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\bin\Debug\net6.0\CodePath.dll
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\bin\Debug\net6.0\CodePath.pdb
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.dll
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\refint\CodePath.dll
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.pdb
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\CodePath.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\CodePath\obj\Debug\net6.0\ref\CodePath.dll

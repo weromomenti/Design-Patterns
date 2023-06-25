@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\Observer\bin\Debug\net6.0\Observer Pattern.exe
+C:\Users\gtsereteli\source\repos\CodePath\Observer\bin\Debug\net6.0\Observer Pattern.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\Observer\bin\Debug\net6.0\Observer Pattern.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\Observer\bin\Debug\net6.0\Observer Pattern.dll
+C:\Users\gtsereteli\source\repos\CodePath\Observer\bin\Debug\net6.0\Observer Pattern.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.dll
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\refint\Observer Pattern.dll
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\Observer Pattern.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\Observer\obj\Debug\net6.0\ref\Observer Pattern.dll

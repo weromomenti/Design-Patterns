@@ -1,0 +1,15 @@
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\bin\Debug\net6.0\Chain Of Responsibility.exe
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\bin\Debug\net6.0\Chain Of Responsibility.deps.json
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\bin\Debug\net6.0\Chain Of Responsibility.runtimeconfig.json
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\bin\Debug\net6.0\Chain Of Responsibility.dll
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\bin\Debug\net6.0\Chain Of Responsibility.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.csproj.AssemblyReference.cache
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.AssemblyInfoInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.AssemblyInfo.cs
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.dll
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\refint\Chain Of Responsibility.dll
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.pdb
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\Chain Of Responsibility.genruntimeconfig.cache
+C:\Users\gtsereteli\source\repos\CodePath\Chain Of Responsibility\obj\Debug\net6.0\ref\Chain Of Responsibility.dll
